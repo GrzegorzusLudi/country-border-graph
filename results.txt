@@ -1,0 +1,156 @@
+Cyprus: ['Northern Cyprus']; distance: 1
+Dominican Republic: ['Haiti']; distance: 1
+Northern Cyprus: ['Cyprus']; distance: 1
+Haiti: ['Dominican Republic']; distance: 1
+Ukraine: ['Canada', 'Lesotho']; distance: 13
+Lithuania: ['Canada', 'Lesotho']; distance: 13
+Belarus: ['Canada', 'Lesotho']; distance: 13
+Poland: ['Lesotho']; distance: 13
+Croatia: ['Lesotho', 'Canada']; distance: 13
+Hungary: ['Canada', 'Lesotho']; distance: 13
+Russia: ['Canada']; distance: 13
+Slovakia: ['Lesotho']; distance: 14
+Czech Republic: ['Lesotho']; distance: 14
+Estonia: ['Canada']; distance: 14
+Georgia: ['Canada']; distance: 14
+Montenegro: ['Canada']; distance: 14
+North Korea: ['Canada']; distance: 14
+Germany: ['Lesotho']; distance: 14
+Kazakhstan: ['Canada']; distance: 14
+China: ['Canada']; distance: 14
+Moldova: ['Canada']; distance: 14
+Finland: ['Canada']; distance: 14
+Republic of Serbia: ['Canada']; distance: 14
+Norway: ['Canada']; distance: 14
+Austria: ['Lesotho']; distance: 14
+Azerbaijan: ['Canada']; distance: 14
+Latvia: ['Canada']; distance: 14
+Mongolia: ['Canada']; distance: 14
+Slovenia: ['Lesotho']; distance: 14
+Romania: ['Canada']; distance: 14
+Bosnia and Herzegovina: ['Canada']; distance: 14
+Laos: ['Canada']; distance: 15
+Albania: ['Canada']; distance: 15
+Armenia: ['Canada']; distance: 15
+Turkey: ['Canada']; distance: 15
+Sweden: ['Canada']; distance: 15
+Bhutan: ['Canada']; distance: 15
+Iran: ['Canada']; distance: 15
+Pakistan: ['Canada']; distance: 15
+India: ['Canada']; distance: 15
+Italy: ['Lesotho']; distance: 15
+Afghanistan: ['Canada']; distance: 15
+Tajikistan: ['Canada']; distance: 15
+South Korea: ['Canada']; distance: 15
+Turkmenistan: ['Canada']; distance: 15
+Uzbekistan: ['Canada']; distance: 15
+France: ['Lesotho']; distance: 15
+Netherlands: ['Lesotho']; distance: 15
+Macedonia: ['Canada']; distance: 15
+Myanmar: ['Canada']; distance: 15
+Belgium: ['Lesotho']; distance: 15
+Switzerland: ['Lesotho']; distance: 15
+Denmark: ['Lesotho']; distance: 15
+Nepal: ['Canada']; distance: 15
+Bulgaria: ['Canada']; distance: 15
+Kosovo: ['Canada']; distance: 15
+Vietnam: ['Canada']; distance: 15
+Kyrgyzstan: ['Canada']; distance: 15
+Luxembourg: ['Lesotho']; distance: 15
+Brazil: ['Lesotho']; distance: 16
+Suriname: ['Lesotho']; distance: 16
+Spain: ['Lesotho']; distance: 16
+Thailand: ['Canada']; distance: 16
+Iraq: ['Canada']; distance: 16
+Greece: ['Canada']; distance: 16
+Cambodia: ['Canada']; distance: 16
+Syria: ['Canada']; distance: 16
+Bangladesh: ['Canada']; distance: 16
+Saudi Arabia: ['Canada']; distance: 17
+Colombia: ['Lesotho']; distance: 17
+Jordan: ['Canada']; distance: 17
+Paraguay: ['Lesotho']; distance: 17
+Israel: ['Canada']; distance: 17
+United Kingdom: ['Lesotho']; distance: 17
+Guyana: ['Lesotho']; distance: 17
+Uruguay: ['Lesotho']; distance: 17
+Bolivia: ['Lesotho']; distance: 17
+Malaysia: ['Canada']; distance: 17
+Peru: ['Lesotho']; distance: 17
+Portugal: ['Lesotho']; distance: 17
+Kuwait: ['Canada']; distance: 17
+Lebanon: ['Canada']; distance: 17
+Venezuela: ['Lesotho']; distance: 17
+Argentina: ['Lesotho']; distance: 17
+Oman: ['Canada']; distance: 18
+Chile: ['Lesotho']; distance: 18
+United Arab Emirates: ['Canada']; distance: 18
+Egypt: ['Canada']; distance: 18
+Panama: ['Lesotho']; distance: 18
+Yemen: ['Canada']; distance: 18
+Ireland: ['Lesotho']; distance: 18
+Ecuador: ['Lesotho']; distance: 18
+Qatar: ['Canada']; distance: 18
+Brunei: ['Canada']; distance: 18
+Indonesia: ['Canada']; distance: 18
+Palestine: ['Canada']; distance: 18
+Papua New Guinea: ['Canada']; distance: 19
+East Timor: ['Canada']; distance: 19
+Sudan: ['Canada']; distance: 19
+Costa Rica: ['Lesotho']; distance: 19
+Libya: ['Canada']; distance: 19
+Ethiopia: ['Canada']; distance: 20
+Chad: ['Canada']; distance: 20
+Algeria: ['Canada']; distance: 20
+Tunisia: ['Canada']; distance: 20
+Eritrea: ['Canada']; distance: 20
+Central African Republic: ['Canada']; distance: 20
+Nicaragua: ['Lesotho']; distance: 20
+South Sudan: ['Canada']; distance: 20
+Niger: ['Canada']; distance: 20
+Honduras: ['Lesotho']; distance: 21
+Somaliland: ['Canada']; distance: 21
+Western Sahara: ['Canada']; distance: 21
+Kenya: ['Canada']; distance: 21
+Burkina Faso: ['Canada']; distance: 21
+Benin: ['Canada']; distance: 21
+Djibouti: ['Canada']; distance: 21
+Nigeria: ['Canada']; distance: 21
+Cameroon: ['Canada']; distance: 21
+Somalia: ['Canada']; distance: 21
+Democratic Republic of the Congo: ['Canada']; distance: 21
+Morocco: ['Canada']; distance: 21
+Mauritania: ['Canada']; distance: 21
+Republic of Congo: ['Canada']; distance: 21
+Mali: ['Canada']; distance: 21
+Uganda: ['Canada']; distance: 21
+Gabon: ['Canada']; distance: 22
+Togo: ['Canada']; distance: 22
+United Republic of Tanzania: ['Canada']; distance: 22
+Burundi: ['Canada']; distance: 22
+Guatemala: ['Lesotho']; distance: 22
+El Salvador: ['Lesotho']; distance: 22
+Zambia: ['Canada']; distance: 22
+Equatorial Guinea: ['Canada']; distance: 22
+Rwanda: ['Canada']; distance: 22
+Angola: ['Canada']; distance: 22
+Senegal: ['Canada']; distance: 22
+Guinea: ['Canada']; distance: 22
+Ghana: ['Canada']; distance: 22
+Ivory Coast: ['Canada']; distance: 22
+Gambia: ['Canada']; distance: 23
+Guinea Bissau: ['Canada']; distance: 23
+Mexico: ['Lesotho']; distance: 23
+Mozambique: ['Canada']; distance: 23
+Namibia: ['Canada']; distance: 23
+Zimbabwe: ['Canada']; distance: 23
+Belize: ['Lesotho']; distance: 23
+Botswana: ['Canada']; distance: 23
+Sierra Leone: ['Canada']; distance: 23
+Liberia: ['Canada']; distance: 23
+Malawi: ['Canada']; distance: 23
+Swaziland: ['Canada']; distance: 24
+United States of America: ['Lesotho']; distance: 24
+South Africa: ['Canada']; distance: 24
+Lesotho: ['Canada']; distance: 25
+Canada: ['Lesotho']; distance: 25
